@@ -21,8 +21,7 @@
 ## Code: 
 
 - The given code is in .ipynb formate. This code will help you too, if you also want to do coding part in the real life.
-- If you also don't want let to learn .ipynb file in your PC, then you may also simply download the .pdf file to. 
--  Here I had used, following libraries, which can be fetch by command: 
+- If you also don't want let to learn .ipynb file in your PC, then you may also simply download the .pdf file to.  
 
 
 ## Skills I achieved: 
